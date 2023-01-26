@@ -1,0 +1,20 @@
+
+.container-fluid {
+    text-align: center;
+}
+
+.col-lg-2 {
+    background-color: aquamarine;
+    border: solid 1px 
+}
+
+.col-lg-8 {
+    background-color: aquamarine;
+    border: solid 1px
+}
+
+.col-lg-12 {
+    background-color: blanchedalmond;
+    border: solid 1px;
+    font-size: 50px;
+}
